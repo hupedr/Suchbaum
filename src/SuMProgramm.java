@@ -1,0 +1,1 @@
+public class SuMProgramm{	static SuchbaumAnwendung meineAnwendung;	public static void main(String args[])	{		meineAnwendung = new SuchbaumAnwendung();		meineAnwendung.fuehreAus();	}}
